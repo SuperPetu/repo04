@@ -8,4 +8,9 @@
 
 4.5: ![alt text](./image-3.png)
 
-4.6: 
+4.6: ![alt text](./image-4.png)
+
+4.7: ![alt text](./image-6.png)
+
+4.8: ![alt text](./image-5.png)
+
